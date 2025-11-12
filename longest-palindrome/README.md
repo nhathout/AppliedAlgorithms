@@ -1,0 +1,1 @@
+This code finds the length of the longest palindrome in a given file.

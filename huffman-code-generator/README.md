@@ -1,0 +1,1 @@
+This is an implementation of a Huffman code system that generates a Huffman tree from character frequencies, prints the generated tree in table format, and decodes a Huffman-encoded file.

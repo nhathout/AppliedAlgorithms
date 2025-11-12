@@ -1,0 +1,1 @@
+This code counts the number of English words in a file (excluding those ending in the same letter as my last name).
